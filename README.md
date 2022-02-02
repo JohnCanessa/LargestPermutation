@@ -12,7 +12,7 @@ get the latest version of the requirements.
 If interested in my almost succesfull and succesful attempts, and my
 comments, I invite you to read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/02/03/hackerrank-largest-permutation-in-java/
 
 Remember that one of the best ways to learn is to read and experiment,
 and repeat. Practice makes perfect.
